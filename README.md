@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm 27</h1>
 <h3 align="center">A beginner programmer that has no idea what he's doing</h3>
 
-<p align="left"> <a href="https://twitter.com/twenn7btc" target="blank"><img src="https://img.shields.io/twitter/follow/twenn7btc?logo=twitter&style=for-the-badge" alt="twenn7btc" /></a> </p>
+<p align="left"> <a href="https://twitter.com/twenny7btc" target="blank"><img src="https://img.shields.io/twitter/follow/twenny7btc?logo=twitter&style=for-the-badge" alt="twenny7btc" /></a> </p>
 
 - 🔭 I’m currently working on [my personal website](https://github.com/embellishment/Personal-site-wip)
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/twenny7btc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twenn7btc" height="30" width="40" /></a>
+<a href="https://twitter.com/twenny7btc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twenny7btc" height="30" width="40" /></a>
 <a href="https://discord.gg/27#0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="27#0001" height="30" width="40" /></a>
 </p>
 
